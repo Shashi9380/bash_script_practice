@@ -1,0 +1,5 @@
+Linux® is an open source operating system (OS) created by
+ Linux Torvalds in 1991. Today, it has a massive user base, and is used in the world’s 
+ 500 most powerful supercomputers. Users gravitate toward it for its versatility and security capabilities,
+  among other reasons. The Linux kernel is maintained by a 
+worldwide community of open linux source enthusiasts and has hundreds of unique distros.
